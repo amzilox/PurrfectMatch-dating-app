@@ -4,9 +4,9 @@
 
 ## Screenshots/Demo
 
-![Screenshot 1](https://github.com/user-attachments/assets/b507a839-5f1f-4bc5-954c-4b8b86f625b3)
+![Screenshot 1](./screenshots/Capture%20d’écran%201.png)
 
-![Screenshot 2](https://github.com/user-attachments/assets/89fa1fdd-9034-48de-9394-de7acf0b2089)
+![Screenshot 2](./screenshots/Capture%20d’écran%202.png)
 
 ## Technologies Used
 
