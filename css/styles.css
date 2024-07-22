@@ -150,6 +150,12 @@ h2 {
 .press-icons {
   margin: 20px 20px 50px;
   width: 15%;
+  filter: grayscale(100%);
+  transition: all 0.2s;
+}
+.press-icons:hover {
+  filter: grayscale(0%);
+  transform: scale(1.2);
 }
 
 /* Pricing section */
