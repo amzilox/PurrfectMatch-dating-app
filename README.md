@@ -35,7 +35,7 @@ To get started with this project, follow these steps:
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/your-username/purrfect-match.git
+   git clone https://github.com/amzilox/purrfect-match.git
    ```
 
 2. Navigate to the project directory:
